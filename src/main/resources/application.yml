@@ -1,0 +1,7 @@
+server:
+  port: 443
+  ssl:
+    enabled: true
+    key-store-password: SaN9rAh5
+    key-store: classpath:4565973_www.mixiaodong.xyz.pfx
+    key-store-type: PKCS12
